@@ -1,1 +1,1 @@
-# pnet
+# ぷよぷよのAI（Deep Q Network）
